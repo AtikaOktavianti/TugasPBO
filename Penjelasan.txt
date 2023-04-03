@@ -1,0 +1,13 @@
+Nama: Atika Oktavianti
+NPM: G1A022020
+Kelas: B Informatika
+
+Soal
+
+jelaskan perbedaan functional programming dan oop pada python beserta contoh kode program dari masing-masing?
+
+Jawab:
+
+Functional programming (FP) dan Object-Oriented Programming (OOP) adalah dua paradigma pemrograman yang berbeda dalam pendekatan dan cara kerja dalam menyelesaikan masalah.
+Pada FP, program berfokus pada fungsi dan operasi yang dilakukan pada data, sedangkan pada OOP, program berfokus ada objek dan interaksi antar objek.
+Secara umum, perbedaan antara FP dan OOP adalah pada fokus dan cara penyelesaian masalah. FP berfokus pada pemrosesan data dengan menggunakan fungsi, sedangkan OOP berfokus pada pengorganisasian dan interaksi antara objek. Pemilihan antara paradigma FP atau OOP tergantung pada jenis masalah yang ingin diselesaikan.
